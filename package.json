@@ -16,7 +16,8 @@
       "import": "./dist/esm/oidc-client-ts.js",
       "require": "./dist/umd/oidc-client-ts.js"
     },
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./dist": "./dist"
   },
   "files": [
     "dist"
